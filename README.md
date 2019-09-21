@@ -1,0 +1,3 @@
+# Philosophy
+Wordpress theme
+
